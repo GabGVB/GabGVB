@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hello, I'm Voicu Gabriel
 
-<!--
-**GabGVB/GabGVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student at National University of Science and Technology Politehnica Bucharest**  
+🎓 **Bachelor's Degree at Faculty of Automatic Control and Computer Science (2022-2026)**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 About Me
+Enthusiastic and dedicated student with a foundation in programming languages such as C/C++ and JAVA. 
+
+---
+
+### 📊 My GitHub Stats
+![GabGVB's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabgvb&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabgvb&layout=compact&theme=radical)
+
