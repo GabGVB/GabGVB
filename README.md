@@ -8,5 +8,5 @@
 Enthusiastic and dedicated student with a foundation in programming languages such as C/C++ and JAVA. 
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabgvb&layout=compact&theme=radical) 
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=gabgvb&layout=compact&theme=radical) 
 
